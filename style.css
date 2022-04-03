@@ -1,0 +1,136 @@
+
+body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    padding: 140px ;
+    background:#f0f2f5 ;
+    box-sizing: border-box;
+    margin-top: -10px;
+ 
+}
+
+img{
+    margin-bottom: -40px;
+}
+
+.texto1{
+    margin-left: 28px;
+    line-height: 31px;
+    width: auto;
+    font-size: 28px;
+    color: #1c1e21;
+    text-align: left;
+      
+}
+
+
+
+.logo{
+    width: 50%;
+    text-align: left;
+    justify-items: left;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 80px; 
+    margin-left: -30px; 
+    margin-bottom: 40px; 
+}
+
+
+
+.div-container2{
+    
+    width: 396px;
+    height: 350px; 
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 16px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
+
+.email{
+
+    width: 364px;
+    height:52px;
+    border-radius: 5px;
+    border: 1px solid  #dddfe2;
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 16px;
+    box-sizing: border-box;
+      
+}
+.senha{
+    width: 364px;
+    height:52px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+    margin-bottom: 14px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 16px;
+    box-sizing: border-box;
+    
+}
+
+.entrar{
+
+    width: 364px;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid;
+    background-color: #1877f2;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    color: white;
+    margin-bottom: 16px;
+    font-weight: bold;
+    
+}
+
+.conta{
+    width: 170px;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid;
+    margin-bottom: 12px;
+    margin-top: -1px;
+    background:#42b72a;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    box-sizing: border-box;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+
+a{
+    color: #1877f2;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #dadde1;
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin: 5px;
+    padding: 0px 0px 20px 0px;
+    box-sizing: border-box;
+    
+}
+
+.texto2{
+    font-size: 14px;
+    margin-top: 38px;
+    font-weight: normal;
+    text-align: center;
+    display: block;
+    color: #1c1e21;
+    font-family: Arial, Helvetica, sans-serif;
+}
